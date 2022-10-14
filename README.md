@@ -29,8 +29,8 @@ Print the output.
 ```
 Developed By : Kamalesh SV
 Register Number : 22001133
-with open("file1.txt","r") as fp:
-    with open("file2.txt","w") as fp1:
+with open("file.txt","r") as fp:
+    with open("file1.txt","w") as fp1:
         v = fp.read()
         fp1.write(v)
 ```
