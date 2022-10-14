@@ -36,7 +36,8 @@ with open("file1.txt","r") as fp:
 ```
 ### OUTPUT:
 
-![OUTPUT](./OUTPUT.png)
+![OUTPUT](./output1.png)
+![OUTPUT](./output2.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
